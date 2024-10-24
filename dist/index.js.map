@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["_order","require","order","Order","getOrder"],"sources":["../index.js"],"sourcesContent":["import {Order } from './order';\nconst order = new Order();\n\norder.getOrder(12345)"],"mappings":"aAAA,IAAAA,MAAA,GAAAC,OAAA;AACA,MAAMC,KAAK,GAAG,IAAIC,YAAK,CAAC,CAAC;;AAEzBD,KAAK,CAACE,QAAQ,CAAC,KAAK,CAAC","ignoreList":[]}
